@@ -83,7 +83,7 @@ a {
   color: #601cfc
 }
 .landing {
-  background-image: url(/Project4/imgs/landing.jpg);
+  background-image: url(../imgs/landing.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
